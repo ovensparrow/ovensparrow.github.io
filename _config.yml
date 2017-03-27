@@ -1,12 +1,12 @@
 # Site settings
-title: "Electric Meerkat"
+title: "Ovensparrow"
 email: "mikipux7@gmail.com"
-description: "Electric Meerkat is a software and game development firm in St.Louis." 
+description: "Ovensparrow is a software and game development firm in St.Louis." 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username: "ElectricMeerkat"
-github_username: ElectricMeerkat
+twitter_username: "ovensparrow"
+github_username: ovensparrow
 
 # Build settings
 markdown: kramdown
